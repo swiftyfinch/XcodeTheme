@@ -5,6 +5,8 @@
 
 **Font:** [FiraCode](https://github.com/tonsky/FiraCode)
 
+<img width="500" alt="BirdsOfUralParadise" src="https://github.com/user-attachments/assets/ea6f1122-1204-430f-9762-7568fb2b00ba" />
+
 ## How to Install
 
 Save the theme file under:
