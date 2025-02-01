@@ -1,7 +1,7 @@
 # XcodeTheme
 
 - `Legacy of SwiftyFinch`: Based on `Birds of Paradise`
-- `Birds of Ural Paradise`: Based on `Birds of Paradise`, `GitHub`, and [`Gleam`](https://gleam.run)
+- `[2025]` | `Birds of Ural Paradise`: Based on `Birds of Paradise`, `GitHub`, and [`Gleam`](https://gleam.run)
 
 **Font:** [FiraCode](https://github.com/tonsky/FiraCode)
 
